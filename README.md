@@ -1,16 +1,14 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Приложение на React Native с картой – Практическое задание
 
 ## Get started
 
-1. Install dependencies
+1. Установка зависимостей
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Запуск приложения
 
    ```bash
     npx expo start
